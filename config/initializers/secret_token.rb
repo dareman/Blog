@@ -9,8 +9,7 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-<<<<<<< HEAD
+
 Blog::Application.config.secret_key_base = '5827ab997340e589afad54756b4000c0332031e03a8ad51ba47ba4a1ab36a52105cbf46cd8858201f8c5784678fcac78645dcaf438f1505b1364e108bbd4210d'
-=======
 Blog::Application.config.secret_key_base = '909a0bbdb99f601464e84ae4cfb0a8e1208c6c26c6b7c6623009bcabc988b3014f53ede1bf96d6d5a319b3d5f23ec09833e8181756f3c9e11d8cd0d763271836'
->>>>>>> 6c3d997c8e81837e7a235ff3ac4e168f3e9430d0
+

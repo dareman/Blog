@@ -1,11 +1,10 @@
 Blog::Application.routes.draw do
-<<<<<<< HEAD
+
   resources :microposts
 
   resources :users
 
-=======
->>>>>>> 6c3d997c8e81837e7a235ff3ac4e168f3e9430d0
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
